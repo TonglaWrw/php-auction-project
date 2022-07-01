@@ -164,7 +164,7 @@
             }
         }
 
-        // window.setInterval('bidsall()', 10000); 	
+        window.setInterval('bidsall()', 10000); 	
             
         function bidsall() {
             $.ajax({
